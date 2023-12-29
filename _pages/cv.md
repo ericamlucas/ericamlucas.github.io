@@ -38,12 +38,22 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Teaching Experience and Educationn
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Co-Instructor, Changing Cold Regions Seminar
+	* McGill University
+	* Winter 2023
+
+* Guest Lecturer, Geodynamics
+	* McGill University 
+	* Winter 2023
+
+* Course in College Teaching, Penn State Schreyer Institute for Teaching Excellence
+	* Fall 2020
+
+* Teaching Assistant, Geoscience 310: Earth History
+	* Penn State
+	* Winter 2019
+
+Academic Service
 ======
-* Currently signed in to 43 different slack teams
