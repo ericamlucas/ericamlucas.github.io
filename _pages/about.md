@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Fellow working in Natalya Gomez's Geodynamics 
-Research Group at McGill University.
+I am currently a Postdoctoral Fellow working in Natalya Gomez's 
+[link](https://www.natalyagomez.com "Geodynamics Research Group") at McGill University. 
