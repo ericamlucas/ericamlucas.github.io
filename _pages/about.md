@@ -21,4 +21,4 @@ and datasets to image crustal and upper mantle structure across a range of spati
 incorporating heterogenous solid Earth structure that I imaged at the glacial basin and 
 sub-basin scales during my Ph.D. into solid Earth – ice sheet models. 
 
-
+## News
