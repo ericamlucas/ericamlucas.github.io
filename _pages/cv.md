@@ -13,7 +13,7 @@ redirect_from:
 ## Education
 * Ph.D in Geosciences, Pennsylvania State University, 2022
 	* Dissertation: Mantle Structure and Seismicity of Antarctica
-* B.S. in (1) Earth & Environmental Science and (2) Applied Physics, University of Michigan, 2017 
+* B.S. in Earth & Environmental Science and Applied Physics, University of Michigan, 2017 
 
 ## Professional Appointments
 * Wares and Trottier Space Institute Postdoctoral Fellow
