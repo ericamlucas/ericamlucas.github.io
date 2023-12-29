@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * Ph.D in Geosciences, Pennsylvania State University, 2022
@@ -38,22 +39,19 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching Experience and Educationn
+Teaching Experience and Education
 ======
-* Co-Instructor, Changing Cold Regions Seminar
-	* McGill University
-	* Winter 2023
+* Co-Instructor, Changing Cold Regions Seminar 
+	* McGill University, Winter 2023
 
-* Guest Lecturer, Geodynamics
-	* McGill University 
-	* Winter 2023
+* Guest Lecturer, Geodynamics Seminar
+	McGill University, Winter 2023
 
-* Course in College Teaching, Penn State Schreyer Institute for Teaching Excellence
-	* Fall 2020
+* Course in College Teaching, 
+	* Penn State Schreyer Institute for Teaching Excellence, Fall 2020
 
 * Teaching Assistant, Geoscience 310: Earth History
-	* Penn State
-	* Winter 2019
+	* Penn State, Winter 2019
 
 Academic Service
 ======
