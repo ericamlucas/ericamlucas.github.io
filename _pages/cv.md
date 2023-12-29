@@ -11,31 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Geosciences, Pennsylvania State University, 2022
+	* Dissertation: Mantle Structure and Seismicity of Antarctica
+* B.S. in (1) Earth & Environmental Science and (2) Applied Physics, University of Michigan, 2017 
 
-Work experience
+Professional Appointments
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Wares and Trottier Space Institute Postdoctoral Fellow
+	* January 2023 - Present
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* US - China Collaboration on Landslide Research, Summer 2017
+	* Undergraduate Research Assistant
+	
+* Rivers of Vorticity in Supercells, Summer 2017
+	* Field Research Assistant
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
