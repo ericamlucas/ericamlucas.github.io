@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Lucas, E.M., Nyblade A.A., Aster, R.C., Wiens, D.A., Wilson, T.J., Winberry, J.P., Huerta, A.D., 2023. 
+Tidally Modulated Glacial Seismicity at the Foundation Ice Stream, West Antarctica. 
+Journal of Geophysical Research Earth Surface 128 (7). https://doi.org/10.1029/2023JF007172. 
