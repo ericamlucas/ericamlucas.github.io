@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Erica's homepage"
+title: "Hello!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my site!
+I am currently a Postdoctoral Fellow working in Natalya Gomez's Geodynamics 
+Research Group at McGill University (https://www.natalyagomez.com). I apply a range of
