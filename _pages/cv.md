@@ -10,14 +10,12 @@ redirect_from:
 {% include base_path %}
 
 
-### Education
-======
+## Education
 * Ph.D in Geosciences, Pennsylvania State University, 2022
 	* Dissertation: Mantle Structure and Seismicity of Antarctica
 * B.S. in (1) Earth & Environmental Science and (2) Applied Physics, University of Michigan, 2017 
 
-### Professional Appointments
-======
+## Professional Appointments
 * Wares and Trottier Space Institute Postdoctoral Fellow
 	* January 2023 - Present
 
@@ -27,20 +25,17 @@ redirect_from:
 * Rivers of Vorticity in Supercells, Summer 2017
 	* Field Research Assistant
   
-### Publications
-======
+## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-### Talks
-======
+## Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-### Teaching Experience and Education
-======
+## Teaching Experience and Education
 * Co-Instructor, Changing Cold Regions Seminar 
 	* McGill University, Winter 2023
 
@@ -53,5 +48,4 @@ redirect_from:
 * Teaching Assistant, Geoscience 310: Earth History
 	* Penn State, Winter 2019
 
-### Academic Service
-======
+## Academic Service
