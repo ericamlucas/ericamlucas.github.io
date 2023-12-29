@@ -1,13 +1,15 @@
 ---
-title: "Shear wave splitting across Antarctica: Implications for upper mantle seismic anisotropy"
+title: "s"
 collection: publications
-permalink: https://doi.org/10.1029/2021JB023325
-excerpt: 
-date: 2022
-venue: 'Journal of Geophysical Research: Solid Earth '
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2010-10-01
+venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Lucas, E.M., Nyblade, A.A., Accardo, N.J., Lloyd, A.L., Aster, R.C., Wiens, D.A., O’Donnell, J.P., Stuart, G.W., Wilson, T.J., Dalziel, I.W., Winberry, J.P., Huerta, A.D., 2022. Shear wave splitting across Antarctica: Implications for upper mantle seismic anisotropy. Journal of Geophysical Research: Solid Earth 127, e2021JB023325. https://doi.org/10.1029/2021JB023325.'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
+This paper is about the number 2. The number 3 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
