@@ -22,8 +22,6 @@ sub-basin scales during my Ph.D. into 3D glacial isostatic adjustment (GIA) mode
 Along with my work focused on solid Earth - ice sheet interactions, I also use 
 glacial seismicity as a means to investigate the dynamics of cryospheric processes occurring at both the ice – ocean and ice – bedrock interfaces. 
 
-<br/><img src='/images/DSC01963.JPG'>
-
 
 # News
 **November - December 2023**: In West Antarctica to service and collect data from Polar Earth Observing Network (POLENET) seismic and GPS sites. 
@@ -31,6 +29,11 @@ The POLENET field team worked out of Union Glacier Camp, located in the Ellswort
 [blog](https://polenet.org/2023-2024-field-season-progress/) (with many many pictures) about our field season! 
 Also, look at my "fieldwork" page for a sampling of photos :) 
 
+
+<br/><img src='/images/DSC01963.JPG'>
+
+Photo of Mount Murphy (right) and Mount Takahe (far left) taken while flying home from servicing a 
+seismic station on Bear Peninsula in the Amundsen Sea Embayment of West Antarctica.
 
 
 
