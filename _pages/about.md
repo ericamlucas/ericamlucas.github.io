@@ -17,7 +17,7 @@ in polar regions.
 My current work builds on my doctoral research, where I employed several seismological methods
 to image solid Earth structure across a range of spatial scales (i.e., local, regional, continental) in Antarctica.
 Specifically, I am presently incorporating heterogenous solid Earth structure that I imaged at the glacial basin and 
-sub-basin scales during my Ph.D. into 3D glacial isostatic adjustment (GIA) models.
+sub-basin scales during my PhD into 3D glacial isostatic adjustment (GIA) models.
 
 Along with my work focused on solid Earth - ice sheet interactions, I also use 
 glacial seismicity as a means to investigate the dynamics of cryospheric processes occurring at both the ice – ocean and ice – bedrock interfaces. 
