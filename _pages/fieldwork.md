@@ -1,6 +1,7 @@
 ---
 permalink: /fieldwork/
 title: "Field Photos"
+excerpt: "Field Photos"
 author_profile: true
 ---
 
