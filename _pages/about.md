@@ -20,7 +20,10 @@ and datasets to image crustal and upper mantle structure across a range of spati
 incorporating heterogenous solid Earth structure that I imaged at the glacial basin and 
 sub-basin scales during my Ph.D. into 3D glacial isostatic adjustment (GIA) models.
 
-## News
+# Updates
 November - December 2023: In West Antarctica to service and collect data from Polar Earth Observing Network (POLENET) seismic 
 and GPS sites. We worked out of Union Glacier Camp, located in the Ellsworth Mountains, this season. Check out this great 
 [blog](https://polenet.org/2023-2024-field-season-progress/) about our field season. 
+
+
+
