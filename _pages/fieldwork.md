@@ -1,27 +1,25 @@
 ---
 permalink: /fieldwork/
-title: "Field Photos"
-excerpt: "Field Photos"
+title: "Fieldwork"
+excerpt: "Fieldwork"
+gallery1:
+  - url: /weekend_stories_pics/2021/2102_Corona_Fruehling/2102 Corona Fruehling 8170-1v (21. Feb. 2021).jpg
+    image_path: /weekend_stories_pics/2021/2102_Corona_Fruehling/2102 Corona Fruehling 8170-1v (21. Feb. 2021).jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /weekend_stories_pics/2021/2102_Corona_Fruehling/2102 Corona Fruehling 8164-1v (21. Feb. 2021).jpg
+    image_path: /weekend_stories_pics/2021/2102_Corona_Fruehling/2102 Corona Fruehling 8164-1v (21. Feb. 2021).jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+gallery2:
+  - url: /weekend_stories_pics/2021/2102_Corona_Fruehling/2102 Corona Fruehling 8175-1v (21. Feb. 2021).jpg
+    image_path: /weekend_stories_pics/2021/2102_Corona_Fruehling/2102 Corona Fruehling 8175-1v (21. Feb. 2021).jpg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
 author_profile: true
 ---
 
 
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
-  - url: /assets/images/unsplash-gallery-image-4.jpg
-    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
-    
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery id="gallery1" caption="This is a sample gallery with **Markdown support**." %}
+
+{% include gallery id="gallery2"  caption="This is a sample gallery with **Markdown support**
