@@ -19,6 +19,7 @@ gallery2:
 author_profile: true
 ---
 
+Coming soon!! 
 
 {% include gallery id="gallery1" caption="This is a sample gallery with **Markdown support**." %}
 
