@@ -22,4 +22,3 @@ author_profile: true
 
 {% include gallery id="gallery1" caption="This is a sample gallery with **Markdown support**." %}
 
-{% include gallery id="gallery2"  caption="This is a sample gallery with **Markdown support**
