@@ -27,7 +27,7 @@ evolution of the West Antarctic Rift System**. Earth and Planetary Science Lette
 [https://doi.org/10.1016/j.epsl.2020.116437](https://doi.org/10.1016/j.epsl.2020.116437)
 
 
-## In prep.
+## In preparation
 Lucas, E.M., Gomez, N., Latychev, K., Yousefi, Y., in prep.  The Impact of Regional-Scale Variability in Upper Mantle Viscosity on Glacial Isostatic Adjustment in West Antarctica. 
 
 Sadai, S., Pollard, D., Dong, Y., Karmalkar, A., Lucas, E.M., Gomez, N., DeConto, R., Condron, A., in prep. Future Climate and Sea Level Projections Using a Coupled Antarctic Ice Sheet – Climate Model. For submission to Nature Climate Change. 
