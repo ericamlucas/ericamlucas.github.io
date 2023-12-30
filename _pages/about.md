@@ -26,6 +26,9 @@ and GPS sites. We worked out of Union Glacier Camp, located in the Ellsworth Mou
 [blog](https://polenet.org/2023-2024-field-season-progress/) (with many many pictures) about our field season!
 
 <br/><img src='/images/IMG_0417.jpeg'>
+Installing a new seismic sensor at the BYRD site. 
+
+
 
 
 
