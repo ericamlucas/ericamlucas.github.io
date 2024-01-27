@@ -18,7 +18,7 @@ author_profile: false
 I am presently incorporating heterogenous solid Earth structure that I imaged at the glacial basin and sub-basin scales during my Ph.D. into solid Earth – ice sheet models. 
 An overarching goal of this work is to assess the sensitivity of GIA to heterogeneity in solid Earth structure. With a focus on better constraining interactions 
 between the solid Earth and ice sheets, my work has direct implications for improving the accuracy of global sea level projections in a changing climate. 
-<br/><img src='/images/cryocartoon.jpg' width="400"/>
+![image-right](/images/cryocartoon.jpg){: .align-right}
 
 
 
