@@ -18,7 +18,8 @@ author_profile: false
 I am presently incorporating heterogenous solid Earth structure that I imaged at the glacial basin and sub-basin scales during my Ph.D. into solid Earth – ice sheet models. 
 An overarching goal of this work is to assess the sensitivity of GIA to heterogeneity in solid Earth structure. With a focus on better constraining interactions 
 between the solid Earth and ice sheets, my work has direct implications for improving the accuracy of global sea level projections in a changing climate. 
-<br/><img src='/images/cryocartoon.jpg'>
+<br/><img src='/images/cryocartoon.jpg' width="400"/>
+
 
 
 
@@ -30,7 +31,7 @@ Rift System and Marie Byrd Land dome.
 <div style="display:flex">
      <div style="flex:1;padding-right:10px;">
           <img src="/images/1-s2.0-S0012821X20303812-gr003.jpg" width="400"/>
-    Seismic imaging of upper mantle structure in central West Antarctica (Lucas et al., 2020)
+   		   Seismic imaging of upper mantle structure in central West Antarctica (Lucas et al., 2020)
 
      </div>
      <div style="flex:1;padding-left:10px;">
@@ -42,12 +43,11 @@ Rift System and Marie Byrd Land dome.
 
 
 
+
 # Glacial seismicity 
-Glacial seismicity to better understand glaciologic processes occurring at the ice-ocean and ice-bedrock interfaces. 
-Studying glacial seismicity can provide important insight into the dynamics of glacier flow, fracture, and discharge into the ocean.
+I am interested in studying glacial seismicity to better understand processes occurring at the ice-ocean and ice-bedrock interfaces. 
 <br/><img src='/images/jgrf21757-fig-0007-m.jpg'>
 Tidally modulated glacial seismicity at the Foundation Ice Stream - icequakes primarily occur during rising tide preceding daily high tide (Lucas et al. 2023)
-Press release: https://www.psu.edu/news/research/story/ears-ice-icequakes-antarctica-linked-ocean-tides/ 
 
 <br/><img src='/images/tg_iceZoomed.jpg'>
 Increased icequake activity preceding and following major calving activity at Thwaites Glacier, West Antarctica (Lucas et al., 2021)
