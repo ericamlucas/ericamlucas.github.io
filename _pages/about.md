@@ -38,7 +38,7 @@ seismic station on Bear Peninsula in the Amundsen Sea Embayment of West Antarcti
 POLENET field team with Twin Otter plane on Backer Island, West Antarctica. 
 
 <br/><img src='/images/still-excavating-2048x1536.jpeg'>
-Digging to the a seismic station deployed on Thwaites Glacier.
+Digging to a seismic station deployed on Thwaites Glacier.
 
 
 
