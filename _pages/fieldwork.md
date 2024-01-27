@@ -3,7 +3,7 @@ permalink: /fieldwork/
 title: "Fieldwork"
 excerpt: "Fieldwork"
 gallery1:
-  - url: still-excavating-2048x1536.jpeg
+  - url: /images/still-excavating-2048x1536.jpeg
     image_path: /images/still-excavating-2048x1536.jpeg
     alt: "Digging to the DNTW seismic site"
     title: "Digging to the DNTW seismic site"
