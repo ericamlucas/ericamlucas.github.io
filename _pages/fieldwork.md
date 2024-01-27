@@ -3,9 +3,9 @@ permalink: /fieldwork/
 title: "Fieldwork"
 excerpt: "Fieldwork"
 gallery1:
-  - url: /assets/images/DSC01963.JPG
-    image_path: /assets/images/DSC01963.JPG
-    alt: "placeholder image 1"
+  - url: /images/DSC01963.JPG
+    image_path: /images/DSC01963.JPG
+    alt: "Digging to the DNTW seismic site"
     title: "Digging to the DNTW seismic site"
   - url: /images/still-excavating-2048x1536.jpeg
     image_path: /images/still-excavating-2048x1536.jpeg
