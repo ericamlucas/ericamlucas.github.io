@@ -44,7 +44,7 @@ Rift System and Marie Byrd Land dome.
 
 # Glacial seismicity 
 I am interested in studying glacial seismicity to better understand processes occurring at the ice-ocean and ice-bedrock interfaces. 
-![image-left](/images/jgrf21757-fig-0007-m.jpg) 
+![image-left](/images/fis_profile.jpg) 
 Tidally modulated glacial seismicity at the Foundation Ice Stream - icequakes primarily occur during rising tide preceding daily high tide (Lucas et al. 2023)
 ![image-left](/images/tg_icezoomed[3777].jpg) 
 Increased icequake activity preceding and following major calving activity at Thwaites Glacier, West Antarctica (Lucas et al., 2021)

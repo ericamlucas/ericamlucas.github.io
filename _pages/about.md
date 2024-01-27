@@ -34,6 +34,9 @@ The POLENET field team worked out of Union Glacier Camp, located in the Ellswort
 Photo of Mount Murphy (right) and Mount Takahe (far left) taken while flying home from servicing a 
 seismic station on Bear Peninsula in the Amundsen Sea Embayment of West Antarctica.
 
+<br/><img src='/images/8c10af9c-8c8f-4e65-8af7-471f3055942c.jpeg'>
+POLENET field team with Twin Otter plane on Backer Island, West Antarctica. 
+
 <br/><img src='/images/still-excavating-2048x1536.jpeg'>
 Digging to the a seismic station deployed on Thwaites Glacier.
 
