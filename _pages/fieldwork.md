@@ -3,8 +3,8 @@ permalink: /fieldwork/
 title: "Fieldwork"
 excerpt: "Fieldwork"
 gallery1:
-  - url: /images/500x300.png
-    image_path: ~/Documents/GitHub/ericamlucas.github.io/ericamlucas.github.io/ericamlucas.github.io/images/3953273590_704e3899d5_m.jpg
+  - url: '/images/DSC01963.JPG'
+    image_path: '/images/DSC01963.JPG'
     alt: "placeholder image 1"
     title: "Digging to the DNTW seismic site"
   - url: /images/still-excavating-2048x1536.jpeg
