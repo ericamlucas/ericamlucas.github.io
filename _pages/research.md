@@ -36,8 +36,7 @@ Rift System and Marie Byrd Land dome.
      </div>
      <div style="flex:1;padding-left:10px;">
           <img src="/images/resultsRevised 3.jpg" width="250"/>
-    </div>
-          Shear wave splitting to investigate upper mantle anisotropy across Antarctica (Lucas et al., 2022)
+           Shear wave splitting to investigate upper mantle anisotropy across Antarctica (Lucas et al., 2022)
 
      </div>
 </div>
