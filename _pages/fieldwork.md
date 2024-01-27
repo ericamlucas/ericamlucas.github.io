@@ -11,12 +11,7 @@ gallery1:
     image_path: /images/still-excavating-2048x1536.jpeg
     alt: "placeholder image 1"
     title: "Digging to the DNTW seismic site"
-gallery2:
-  - url: /images/500x300.png
-    image_path: /images/500x300.png
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
-author_profile: true
+author_profile: false
 ---
 
 
