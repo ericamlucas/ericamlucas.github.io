@@ -3,8 +3,8 @@ permalink: /fieldwork/
 title: "Fieldwork"
 excerpt: "Fieldwork"
 gallery1:
-  - url: /images/fieldwork_ant_2023/still-excavating-2048x1536.jpeg
-    image_path: /images/fieldwork_ant_2023/still-excavating-2048x1536.jpeg
+  - url: /images/still-excavating-2048x1536.jpeg
+    image_path: /images/still-excavating-2048x1536.jpeg
     alt: "placeholder image 1"
     title: "Digging to the DNTW seismic site"
   - url: /images/500x300.png
@@ -19,7 +19,6 @@ gallery2:
 author_profile: true
 ---
 
-Coming soon!! 
 
 {% include gallery id="gallery1" caption="This is a sample gallery with **Markdown support**." %}
 
