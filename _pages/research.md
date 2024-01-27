@@ -15,7 +15,7 @@ author_profile: false
 ---
 
 # Solid Earth - Ice Sheet interactions 
-![image-right](/images/cryocartoon.jpg){: .align-right} I am presently incorporating heterogenous solid Earth structure that I imaged at the glacial basin and sub-basin scales during my Ph.D. into solid Earth – ice sheet models. 
+![image-right](/images/cryosphere2.jpg){: .align-right} I am presently incorporating heterogenous solid Earth structure that I imaged at the glacial basin and sub-basin scales during my Ph.D. into solid Earth – ice sheet models. 
 An overarching goal of this work is to assess the sensitivity of GIA to heterogeneity in solid Earth structure. With a focus on better constraining interactions 
 between the solid Earth and ice sheets, my work has direct implications for improving the accuracy of global sea level projections in a changing climate. 
 
@@ -32,7 +32,7 @@ Rift System and Marie Byrd Land dome.
 
      </div>
      <div style="flex:1;padding-left:10px;">
-          <img src="/images/resultsRevised 3.jpg" width="300"/>
+          <img src="/images/resultsRevised 3.jpg" width="350"/>
           
           
                  Shear wave splitting to investigate upper mantle anisotropy across Antarctica (Lucas et al., 2022)
