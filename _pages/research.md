@@ -32,8 +32,9 @@ Rift System and Marie Byrd Land dome.
 
      </div>
      <div style="flex:1;padding-left:10px;">
-          <img src="/images/resultsRevised 3.jpg" width="300"/>
-                 hear wave splitting to investigate upper mantle anisotropy across Antarctica (Lucas et al., 2022)
+          <img src="/images/resultsRevised 3.jpg" width="400"/>
+          
+                 Shear wave splitting to investigate upper mantle anisotropy across Antarctica (Lucas et al., 2022)
 
      </div>
 </div>
@@ -43,5 +44,7 @@ Rift System and Marie Byrd Land dome.
 
 # Glacial seismicity 
 I am interested in studying glacial seismicity to better understand processes occurring at the ice-ocean and ice-bedrock interfaces. 
-![image-left](/images/jgrf21757-fig-0007-m.jpg) Tidally modulated glacial seismicity at the Foundation Ice Stream - icequakes primarily occur during rising tide preceding daily high tide (Lucas et al. 2023)
-![image-left](/images/tg_iceZoomed.jpg) Increased icequake activity preceding and following major calving activity at Thwaites Glacier, West Antarctica (Lucas et al., 2021)
+![image-left](/images/jgrf21757-fig-0007-m.jpg) 
+Tidally modulated glacial seismicity at the Foundation Ice Stream - icequakes primarily occur during rising tide preceding daily high tide (Lucas et al. 2023)
+![image-left](/images/tg_iceZoomed.jpg) 
+Increased icequake activity preceding and following major calving activity at Thwaites Glacier, West Antarctica (Lucas et al., 2021)
