@@ -15,5 +15,5 @@ author_profile: false
 ---
 
 
-{% include gallery id="gallery1" caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery id="gallery1" caption="digging for the DNTW seismic site" %}
 
