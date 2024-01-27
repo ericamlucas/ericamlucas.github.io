@@ -29,17 +29,16 @@ Rift System and Marie Byrd Land dome.
 
 <div style="display:flex">
      <div style="flex:1;padding-right:10px;">
-          <img src="/images/1-s2.0-S0012821X20303812-gr003.jpg" width="200"/>
+          <img src="/images/1-s2.0-S0012821X20303812-gr003.jpg" width="400"/>
+    Seismic imaging of upper mantle structure in central West Antarctica (Lucas et al., 2020)
+
      </div>
      <div style="flex:1;padding-left:10px;">
           <img src="/images/resultsRevised 3.jpg" width="300"/>
+          Shear wave splitting to investigate upper mantle anisotropy across Antarctica (Lucas et al., 2022)
+
      </div>
 </div>
-
-<br/><img src='/images/1-s2.0-S0012821X20303812-gr003.jpg'>
-Seismic imaging of upper mantle structure in central West Antarctica (Lucas et al., 2020)
-<br/><img src='/images/resultsRevised 3.jpg'>
-Shear wave splitting to investigate upper mantle anisotropy across Antarctica (Lucas et al., 2022)
 
 
 
