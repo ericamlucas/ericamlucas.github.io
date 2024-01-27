@@ -15,8 +15,8 @@ author_profile: false
 ---
 
 # Solid Earth - Ice Sheet interactions 
-I am presently incorporating heterogenous solid Earth structure that I imaged at the glacial basin and sub-basin scales during my Ph.D. into solid Earth – ice sheet models. 
-![image-right](/images/cryocartoon.jpg){: .align-right} An overarching goal of this work is to assess the sensitivity of GIA to heterogeneity in solid Earth structure. With a focus on better constraining interactions 
+![image-right](/images/cryocartoon.jpg){: .align-right} I am presently incorporating heterogenous solid Earth structure that I imaged at the glacial basin and sub-basin scales during my Ph.D. into solid Earth – ice sheet models. 
+An overarching goal of this work is to assess the sensitivity of GIA to heterogeneity in solid Earth structure. With a focus on better constraining interactions 
 between the solid Earth and ice sheets, my work has direct implications for improving the accuracy of global sea level projections in a changing climate. 
 
 
@@ -33,7 +33,7 @@ Rift System and Marie Byrd Land dome.
      </div>
      <div style="flex:1;padding-left:10px;">
           <img src="/images/resultsRevised 3.jpg" width="300"/>
-              Shear wave splitting to investigate upper mantle anisotropy across Antarctica (Lucas et al., 2022)
+                 hear wave splitting to investigate upper mantle anisotropy across Antarctica (Lucas et al., 2022)
 
      </div>
 </div>
@@ -44,5 +44,4 @@ Rift System and Marie Byrd Land dome.
 # Glacial seismicity 
 I am interested in studying glacial seismicity to better understand processes occurring at the ice-ocean and ice-bedrock interfaces. 
 ![image-left](/images/jgrf21757-fig-0007-m.jpg) Tidally modulated glacial seismicity at the Foundation Ice Stream - icequakes primarily occur during rising tide preceding daily high tide (Lucas et al. 2023)
-
-<br/><img src='/images/tg_iceZoomed.jpg' width="400"> Increased icequake activity preceding and following major calving activity at Thwaites Glacier, West Antarctica (Lucas et al., 2021)
+![image-left](/images/tg_iceZoomed.jpg) Increased icequake activity preceding and following major calving activity at Thwaites Glacier, West Antarctica (Lucas et al., 2021)
