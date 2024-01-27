@@ -42,7 +42,7 @@ Rift System and Marie Byrd Land dome.
 
 
 
-
+<br/><br/>
 
 # Glacial seismicity 
 I am interested in studying glacial seismicity to better understand processes occurring at the ice-ocean and ice-bedrock interfaces. 
