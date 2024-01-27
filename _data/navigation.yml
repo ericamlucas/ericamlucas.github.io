@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Field Photos"
-    url: /fieldwork/
+ # - title: "Field Photos"
+ #   url: /fieldwork/
 
   - title: "CV"
     url: /cv/
