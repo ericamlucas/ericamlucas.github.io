@@ -39,6 +39,14 @@ redirect_from:
 * Penn State Geosciences Department, Colloquium Student Coordinator, 2019 – 2021
 * University of Michigan Housing, Resident Advisor, 2015 – 2017
 
+## Outreach Events
+* Union Glacier Camp Science Talk, December 2023
+* Climate Physics workshop, McGill Summer Academy, July 2023
+* Rockin’ Out K-12 outreach event, Adler Planetarium, December 2022
+* Schoolcraft Community College Geology Club, Guest Lecturer, December 2023
+* Exploration-U Community Science Fair, April 2022
+* McMurdo Station Town Talk, December 2021
+
 
 ## Professional Affiliations
 American Geophysical Union, Seismological Society of America, Geotop
